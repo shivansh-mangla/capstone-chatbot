@@ -17,6 +17,17 @@
     padding: 5px;
     flex: 1;
     border-radius: 5px;
+    font-size: 13px;
+}
+
+.chat-display-options{
+    border: 1px solid rgb(24, 18, 12);
+    padding: 2px;
+    width: 50%;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
 
 .chatbot-input-div{
